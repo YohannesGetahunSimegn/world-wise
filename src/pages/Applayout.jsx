@@ -1,6 +1,6 @@
 import { AppNav } from "../components/AppNav";
 
-export default function Applayout() {
+export default function AppLayout() {
   return (
     <div>
       <AppNav />
