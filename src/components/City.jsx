@@ -1,5 +1,4 @@
-import { useParams, useSearchParams } from "react-router-dom";
-// import { useCities } from "../contexts/CitiesContext";
+import { useParams } from "react-router-dom";
 import BackButton from "./BackButton";
 import styles from "./City.module.css";
 import Spinner from "./Spinner";
@@ -13,19 +12,6 @@ const formatDate = (date) =>
     year: "numeric",
     weekday: "long",
   }).format(new Date(date));
-
-// function City() {
-//   const { id } = useParams();
-//   const { getCity, currentCity, isLoading } = useCities();
-
-// useEffect(
-//   function () {
-//     getCity(id);
-//   },
-//   [id, getCity]
-// );
-
-// const { cityName, emoji, date, notes } = currentCity;
 
 function City() {
   const { id } = useParams();
