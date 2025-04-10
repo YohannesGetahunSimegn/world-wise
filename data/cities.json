@@ -35,66 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
-    },
-    {
-      "id": "64c7",
-      "cityName": "Torrijo de la Canada",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-04-09T14:07:04.668Z",
-      "notes": "",
-      "position": {
-        "lat": "41.47566020027821",
-        "lng": "-1.8660886712479987"
-      }
-    },
-    {
-      "id": "29de",
-      "cityName": "Gafsa",
-      "country": "Tunisia",
-      "emoji": "🇹🇳",
-      "date": "2025-04-09T14:12:56.405Z",
-      "notes": "",
-      "position": {
-        "lat": "34.52466147177175",
-        "lng": "8.681983622262278"
-      }
-    },
-    {
-      "id": "dc94",
-      "cityName": "Pratovecchio",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2025-04-09T14:13:48.975Z",
-      "notes": "dkjejdkadjeda",
-      "position": {
-        "lat": "43.83452678223684",
-        "lng": "11.78243363962046"
-      }
-    },
-    {
-      "id": "7843",
-      "cityName": "Camboulazet",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2025-04-09T14:20:26.946Z",
-      "notes": "",
-      "position": {
-        "lat": "44.213709909702054",
-        "lng": "2.4416434399288227"
-      }
-    },
-    {
-      "id": "0942",
-      "cityName": "Lauterbrunnen",
-      "country": "Switzerland",
-      "emoji": "🇨🇭",
-      "date": "2025-04-09T14:23:06.489Z",
-      "notes": "dwdwaw",
-      "position": {
-        "lat": "46.51351558059737",
-        "lng": "7.869646891434174"
-      }
     }
   ]
 }
