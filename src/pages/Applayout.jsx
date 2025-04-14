@@ -1,6 +1,7 @@
 import SideBar from "../components/Sidebar";
 import Map from "../components/Map";
 import styles from "./AppLayout.module.css";
+import User from "../components/User";
 
 export default function AppLayout() {
   return (
@@ -8,7 +9,7 @@ export default function AppLayout() {
       {/* <AppNav /> */}
       <SideBar />
       <Map />
-      <p>App</p>
+      <User />
     </div>
   );
 }
